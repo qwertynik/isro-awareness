@@ -8,6 +8,7 @@
 ## Lunar Exploration
 - Chandrayaan-1 (2008) discovered water molecules on the Moon.
 - Chandrayaan-2 (2019) aimed to explore the lunar south pole.
+- Chandrayaan-3 (2023) is India's third lunar mission. It was launched on July 14, 2023, from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh.
 
 ## Launch Vehicles
 - ISRO developed the versatile Polar Satellite Launch Vehicle (PSLV) and the Geosynchronous Satellite Launch Vehicle (GSLV).
